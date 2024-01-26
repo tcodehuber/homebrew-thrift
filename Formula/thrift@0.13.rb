@@ -1,7 +1,7 @@
 class ThriftAT013 < Formula
   desc "Framework for scalable cross-language services development"
   homepage "https://thrift.apache.org"
-  url "https://github.com/apache/thrift/archive/refs/tags/v0.13.0.tar.gz"
+  url "http://127.0.0.1:8000/v0.13.0.tar.gz"
   sha256 "5da60088e60984f4f0801deeea628d193c33cec621e78c8a43a5d8c4055f7ad9"
   license "Apache-2.0"
 
